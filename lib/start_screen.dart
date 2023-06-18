@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import '';
-import 'package:quiz_app/main.dart';
 //nothing is changing
 
 class StartScreen extends StatelessWidget {
@@ -10,7 +8,7 @@ class StartScreen extends StatelessWidget {
   Widget build(context) {
     return Center(
       child: Column(
-        children: [Image.asset('QuizApp/assets/images/quiz-logo.png')],
+        children: [Image.asset('assets/images/quiz-logo.png')],
       ),
     );
   }
