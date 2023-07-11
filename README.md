@@ -1,6 +1,6 @@
 # quiz_app
 
-A new Flutter project.
+Here's a new Flutter project where we have a Quiz game with 6 questions about Flutter basics after answering all of the 6 questions you will get a result screen showing how many questions you have answered correctly with some basic styling.
 
 ## Getting Started
 
